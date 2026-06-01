@@ -1,6 +1,140 @@
+# Vanti Clone
 
-## Getting Started
+Clon frontend desarrollado con Next.js y Tailwind CSS inspirado en el sitio web de Vanti.
 
+El proyecto fue construido con un enfoque pixel-perfect, buscando replicar la estructura visual, jerarquía de información y experiencia de usuario del sitio original mediante componentes reutilizables y buenas prácticas de desarrollo frontend.
+
+---
+
+## Objetivo del Proyecto
+
+Desarrollar una réplica visual moderna que permitiera fortalecer habilidades en:
+
+- Maquetación profesional
+- Diseño responsivo
+- Componentización
+- Organización de interfaces
+- Experiencia de usuario (UI/UX)
+- Desarrollo Frontend con Next.js
+
+---
+
+## Características Principales
+
+✅ Diseño responsive
+
+✅ Componentes reutilizables
+
+✅ Navegación dinámica
+
+✅ Mega menús personalizados
+
+✅ Dropdowns interactivos
+
+✅ Adaptación a diferentes tamaños de pantalla
+
+✅ Estructura escalable
+
+✅ Optimización visual basada en Tailwind CSS
+
+✅ Enfoque pixel-perfect
+
+---
+
+## Tecnologías Utilizadas
+
+### Frontend
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+
+### Herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## Capturas del Proyecto
+
+### Página Principal
+
+![Home](./imagenes/vanti1.png)
+
+### Menús y Navegación
+
+_Agregar captura adicional_
+
+### Componentes Responsivos
+
+_Agregar captura adicional_
+
+---
+
+## Aspectos Destacados
+
+Durante el desarrollo se trabajó especialmente en:
+
+- Reproducción fiel del diseño original
+- Espaciados y alineaciones precisas
+- Jerarquía visual consistente
+- Comportamiento interactivo de menús
+- Organización modular de componentes
+- Adaptación responsive
+
+---
+
+## Aprendizajes Obtenidos
+
+Este proyecto permitió fortalecer conocimientos relacionados con:
+
+- React
+- Next.js
+- Tailwind CSS
+- Arquitectura de componentes
+- Diseño responsive
+- Optimización visual
+- Desarrollo frontend moderno
+
+---
+
+## Estado del Proyecto
+
+🚀 En desarrollo activo
+
+Actualmente continúo realizando ajustes visuales, mejoras de experiencia de usuario y optimizaciones de componentes para acercar aún más la implementación al diseño original.
+
+---
+
+## Autor
+
+### William David Andrade Pereira
+
+Estudiante de Ingeniería de Sistemas
+
+📍 Bogotá, Colombia
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/wdandradep/
+
+🔗 GitHub:
+https://github.com/wdandradep-beep
+
+---
+
+## Próximas Mejoras
+
+- Optimización de rendimiento
+- Mejoras de accesibilidad
+- Nuevas animaciones e interacciones
+- Refinamiento responsive
+- Componentes reutilizables adicionales
+- Optimización SEO
+
+## COMO CORRER  
 First, run the development server:
 
 ```bash

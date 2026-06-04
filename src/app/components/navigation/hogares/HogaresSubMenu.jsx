@@ -33,7 +33,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/gas.png"
+              src="/gas.PNG"
               alt="Servicios gas"
               className="w-[24px] object-contain"
             />
@@ -60,7 +60,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/tienda-virtual.png"
+              src="/tienda-virtual.PNG"
               alt="Tienda Virtual"
               className="w-[24px] object-contain"
             />
@@ -87,7 +87,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/vanti-listo.png"
+              src="/vanti-listo.PNG"
               alt="Vanti Listo"
               className="w-[24px] object-contain"
             />
@@ -114,7 +114,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/vanti-max.png"
+              src="/vanti-max.PNG"
               alt="Vanti Max"
               className="w-[24px] object-contain"
             />
@@ -141,7 +141,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/tramites-ayuda.png"
+              src="/tramites-ayuda.PNG"
               alt="Trámites y ayuda"
               className="w-[23px] object-contain"
             />
@@ -167,7 +167,7 @@ export default function HogaresSubMenu() {
           >
 
             <img
-              src="/seguimiento-orden.png"
+              src="/seguimiento-orden.PNG"
               alt="Seguimiento"
               className="w-[26px] object-contain"
             />

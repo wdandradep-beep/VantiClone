@@ -161,7 +161,7 @@ export default function TramitesMenu() {
         <div className="flex flex-col gap-[18px] pt-[2px]">
 
           <img
-            src="/atencion1.png"
+            src="/atencion1.PNG"
             alt="Whatsapp"
             className="w-[430px] object-contain"
           />

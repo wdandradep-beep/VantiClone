@@ -65,7 +65,7 @@ export default function MainHeader() {
             <div className="flex flex-col items-center justify-center leading-none text-[#0a2a66] cursor-pointer hover:opacity-80 transition">
 
               <img
-                src="/paga-aca.jpg"
+                src="/paga-aca.JPG"
                 alt="Paga acá"
                 className="w-[27px] object-contain"
               />
@@ -80,7 +80,7 @@ export default function MainHeader() {
             <div className="flex flex-col items-center justify-center leading-none text-[#0a2a66] cursor-pointer hover:opacity-80 transition">
 
               <img
-                src="/pse.jpg"
+                src="/pse.JPG"
                 alt="PSE"
                 className="w-[24px] object-contain"
               />
@@ -95,7 +95,7 @@ export default function MainHeader() {
             <div className="flex flex-col items-center justify-center leading-none text-[#0a2a66] cursor-pointer hover:opacity-80 transition">
 
               <img
-                src="/bancolombia.jpg"
+                src="/bancolombia.JPG"
                 alt="Bancolombia"
                 className="w-[28px] object-contain"
               />

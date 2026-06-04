@@ -110,7 +110,7 @@ export default function MainHeader() {
             <div className="relative flex flex-col items-center justify-center leading-none text-[#0a2a66] cursor-pointer hover:opacity-80 transition">
 
               <img
-                src="/carrito.jpg"
+                src="/carrito.JPG"
                 alt="Carrito"
                 className="w-[34px] object-contain"
               />

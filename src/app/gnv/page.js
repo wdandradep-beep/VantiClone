@@ -1,8 +1,8 @@
 
-export default function Constructores() {
+export default function GNV() {
   return (
     <main>
-      <h1>Constructores</h1>
+      <h1>GNV</h1>
     </main>
   );
 }

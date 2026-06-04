@@ -234,7 +234,7 @@ export default function TopBar() {
         <div className="bg-[#eb8d6e] h-[40px] px-10 flex items-center text-[#173A6A] text-[14px] font-normal">
 
           <img
-            src="/advertencia.png"
+            src="/advertencia.PNG"
             alt="Emergencias"
             className="w-[24px] h-[24px] object-contain mr-2"
           />
